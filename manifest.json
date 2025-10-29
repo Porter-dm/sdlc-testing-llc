@@ -1,11 +1,11 @@
 [
   {
     "name": "bb-terraform",
-    "version": "25.11.0.0544+06bd2ec"
+    "version": "25.12.0.0544+06bd2ec"
   },
   {
     "name": "hotfolder-microservices",
-    "version": "1.16.0.628+3561ff2"
+    "version": "1.17.0.628+3561ff2"
   },
   {
     "name": "populate-data-models-bucket",
