@@ -1,0 +1,82 @@
+[
+  {
+    "name": "bb-terraform",
+    "version": "25.11.0.1544+06bd2ec"
+  },
+  {
+    "name": "hotfolder-microservices",
+    "version": "1.16.0.628+3561ff2"
+  },
+  {
+    "name": "populate-data-models-bucket",
+    "version": "25.11.0.8013+a0f11d9"
+  },
+  {
+    "name": "bioflow-parsers",
+    "version": "25.11.0.8013+a0f11d9"
+  },
+  {
+    "name": "Databricks Definitions",
+    "version": "25.11.0.8013+a0f11d9"
+  },
+  {
+    "name": "databricks-ingestion",
+    "version": "25.11.0.2274+2371fe8"
+  },
+  {
+    "name": "gozip",
+    "version": "2.9.0.140+d8021c3"
+  },
+  {
+    "name": "node-bio-bright",
+    "version": "3.42.0.5326+4c103c7"
+  },
+  {
+    "name": "biobright-webclient",
+    "version": "3.27.0.2954+b8e1500"
+  },
+  {
+    "name": "swagger-ui",
+    "version": "2.10.0.404+db13705"
+  },
+  {
+    "name": "lambda-auth0-audit-log",
+    "version": "1.11.0.487+a088a16"
+  },
+  {
+    "name": "bioflow-database",
+    "version": "1.6.0.228+2f59230"
+  },
+  {
+    "name": "bb-monitoring-datadog",
+    "version": "25.11.0.394+bf73494"
+  },
+  {
+    "name": "s3-watcher",
+    "version": "1.9.0.126+1a6a681"
+  },
+  {
+    "name": "llc-watcher",
+    "version": "1.7.0.254+49a7287"
+  },
+  {
+    "name": "llc-app-generator",
+    "version": "25.11.0.692+28f34d4-build5"
+  },
+  {
+    "name": "installer-windows",
+    "version": "5.11.0.737+37b494a"
+  },
+  {
+    "name": "installer-linux",
+    "version": "5.9.0.607+aaef8ec"
+  },
+  {
+    "name": "populate-secret",
+    "version": "25.11.0.1544+06bd2ec"
+  },
+  {
+    "name": "smoke-test",
+    "version": "25.11.0.8013+a0f11d9"
+  }
+]
